@@ -19,3 +19,8 @@ html {
   flex-direction: column;
   text-align: left;
 }
+
+.materialUiForm {
+  display: flex;
+  flex-direction: column;
+}
