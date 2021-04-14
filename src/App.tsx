@@ -7,10 +7,10 @@ import { VanillaForm } from "./components/VanillaForm";
 function App() {
   return (
     <div className="App">
-      {/* <VanillaForm /> */}
+      <VanillaForm />
       {/* <ReactHookForm /> */}
       {/* <FormikForm /> */}
-      <MaterialUiForm />
+      {/* <MaterialUiForm /> */}
     </div>
   );
 }
